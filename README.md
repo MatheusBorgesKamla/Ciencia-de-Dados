@@ -18,5 +18,6 @@ As atividades estão estruturadas nos seguintes tópicos:
 - Seleção de Variáveis
 - Dados Desbalanceados
 - Planejamento de Experimentos
+- Teste de Hipótese
 - Prova - Análise conjunto de dados Titanic
 
